@@ -1,0 +1,73 @@
+html{
+font-size: 62.5%;
+background-color: wheat;
+border: 5px solid black;
+margin-top: 1vh;
+height: 95rem;
+max-width: 130rem;
+font-family: Oswald;
+min-height: 115rem;
+}
+
+body{
+font-size: 1.6rem;
+}
+
+#start{
+width: 30rem;
+height: 25rem;
+background-color: green;
+border: 5px solid black;
+font-size: 62.5%;
+font-size: 3.6rem;
+font-family: Oswald;
+}
+
+#stop{
+width: 30rem;
+height: 25rem;
+background-color: red;
+border: 5px solid black;
+font-size: 62.5%;
+font-size: 3.6rem;
+font-family: Oswald;
+}
+
+#clear{
+width: 30rem;
+height: 25rem;
+background-color: grey;
+border: 5px solid black;
+font-size: 62.5%;
+font-size: 3.6rem;
+font-family: Oswald;
+}
+
+.box{
+padding: 25rem;
+border-radius: 1rem;
+border: 5px solid black;
+background-color: plum;
+max-width: 25rem;
+margin-left: 50rem;
+margin-top: -65rem;
+text-align: center;
+font-size: 62.5%;
+font-size: 3.6rem;
+font-family: Oswald;
+}
+
+h2{
+height: 85rem;
+}
+
+.slider{
+    margin-top: 10rem;
+    width: 125rem;
+}
+
+#js--img{
+margin-left: 70rem;
+border: 5px solid black;
+margin-top: -80rem;
+}
